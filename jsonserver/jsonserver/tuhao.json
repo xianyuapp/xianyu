@@ -1,0 +1,27 @@
+{
+  "tuhao": [
+    {
+      "id": "1",
+      "img": "./static/sky.png",
+      "title": "METALBUILD",
+      "desc": "主打metalbuild系列，当然其他系列也有哟"
+    },
+    {
+      "id": "2",
+      "img": "./static/wawa.png",
+      "title": "珍妮娃娃",
+      "desc": "天啊，这鱼塘什么也没有介绍····"
+    },
+    {
+      "id": "3",
+      "img": "./static/hangpai.png",
+      "title": "多轴航拍FPV",
+      "desc": "多轴航拍FPV鱼塘是各类航模的聚集地"
+    },
+    {
+      "id": "4",
+      "title": "更多",
+      "desc": "玩具收藏"
+    }
+  ]
+}

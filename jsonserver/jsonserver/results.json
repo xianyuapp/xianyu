@@ -1,0 +1,38 @@
+{
+  "连衣裙": [
+    {
+      "id": 1,
+      "image": "https://img.alicdn.com/bao/uploaded/i3/59973809/LB2OeHwXerAQeBjSZFNXXcgJVXa_!!0-fleamarket.jpg_220x10000.jpg",
+      "desc": "黑色连衣裙",
+      "price": "100.00",
+      "addr": "南昌",
+      "time": "44分钟来过"
+    },
+    {
+      "id": 2,
+      "image": "https://img.alicdn.com/bao/uploaded/i1/6000000002288/TB2ISiCtl0kpuFjSsziXXa.oVXa_!!0-fleamarket.jpg_220x10000.jpg",
+      "desc": "a字裙",
+      "price": "68.00",
+      "addr": "上海",
+      "time": "10分钟来过"
+    }
+  ],
+  "手机": [
+    {
+      "id": 1,
+      "image": "https://img.alicdn.com/bao/uploaded/i3/TB1hNRGPpXXXXaOaVXX2E3t.FXX_220x10000.jpg",
+      "desc": "iphone6plus你值得拥有",
+      "price": "4500",
+      "addr": "北京",
+      "time": "1小时前来过"
+    },
+    {
+      "id": 2,
+      "image": "https://img.alicdn.com/bao/uploaded/i4/TB17RilOVXXXXbCapXXsig39FXX_220x10000.jpg",
+      "desc": "挡子弹牌手机就该选它",
+      "price": "8000",
+      "addr": "深圳",
+      "time": "12分前来过"
+    }
+  ]
+}

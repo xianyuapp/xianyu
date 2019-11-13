@@ -1,0 +1,40 @@
+{
+  "typelist": [
+    {
+      "id": "1",
+      "title": "奢侈品",
+      "desc": "1890个新宝贝入塘",
+      "src": "./static/shechi.jpg"
+    },
+    {
+      "id": "2",
+      "title": "法院卖货",
+      "desc": "手机数码真心便宜",
+      "src": "./static/car.jpg"
+    },
+    {
+      "id": "3",
+      "title": "奢电脑发烧友",
+      "desc": "262个新宝贝入塘",
+      "src": "./static/computer.jpg"
+    },
+    {
+      "id": "4",
+      "title": "距开始9小时",
+      "desc": "蔡氏古琴制作技艺",
+      "src": "./static/guqin.jpg"
+    },
+    {
+      "id": "5",
+      "title": "[技能]会摄影",
+      "desc": "爱宠的写真，约吗",
+      "src": "./static/pet.jpg"
+    },
+    {
+      "id": "6",
+      "title": "实拍穿搭",
+      "desc": "今日实拍已上新",
+      "src": "./static/cloth.jpg"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "banner": [
+    {
+      "id": "1",
+      "src": "./static/banner1.jpg"
+    },
+    {
+      "id": "2",
+      "src": "./static/banner2.jpg"
+    },
+    {
+      "id": "3",
+      "src": "./static/banner3.jpg"
+    },
+    {
+      "id": "4",
+      "src": "./static/banner4.jpg"
+    }
+  ]
+}

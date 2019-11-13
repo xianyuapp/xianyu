@@ -1,0 +1,16 @@
+{
+  "banner": [
+    {
+      "id": "1",
+      "src": "./static/banner1.jpg"
+    },
+    {
+      "id": "2",
+      "src": "./static/ad1.webp"
+    },
+    {
+      "id": "3",
+      "src": "./static/ad2.png"
+    }
+  ]
+}

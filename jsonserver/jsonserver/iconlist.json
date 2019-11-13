@@ -1,0 +1,28 @@
+{
+  "iconlist": [
+    {
+      "id": "1",
+      "src": "../../static/phone.png",
+      "title": "闲鱼精选",
+      "desc": "这里有好东西"
+    },
+    {
+      "id": "2",
+      "src": "../../static/jingang.png",
+      "title": "拍卖",
+      "desc": "变形金刚5"
+    },
+    {
+      "id": "3",
+      "src": "../../static/car.png",
+      "title": "同城",
+      "desc": "选闲置更靠谱"
+    },
+    {
+      "id": "4",
+      "src": "../../static/house.png",
+      "title": "我要租房",
+      "desc": "三分钟租到房"
+    }
+  ]
+}

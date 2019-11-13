@@ -1,0 +1,28 @@
+{
+  "interests": [
+    {
+      "id": "1",
+      "img": "./static/oushili.png",
+      "title": "欧时力欧",
+      "desc": "正在举办塘主安利活动"
+    },
+    {
+      "id": "2",
+      "img": "./static/jk.png",
+      "title": "JK红领巾广场",
+      "desc": "天啊~这鱼塘怎么火爆"
+    },
+    {
+      "id": "3",
+      "img": "./static/dog.png",
+      "title": "爱狗狗",
+      "desc": "塘主推送了好东西"
+    },
+    {
+      "id": "4",
+      "img": "./static/hanfu.png",
+      "title": "汉服",
+      "desc": "塘主推送了好多美腻的汉服"
+    }
+  ]
+}
